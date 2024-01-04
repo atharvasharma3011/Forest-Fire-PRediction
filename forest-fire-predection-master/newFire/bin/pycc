@@ -1,0 +1,3 @@
+#!/Users/sunil.kashyap/sunil/krishna/test/Forest-Fire-Prediction/newFire/bin/python
+from numba.pycc import main
+main()
